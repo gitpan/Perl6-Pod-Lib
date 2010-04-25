@@ -1,12 +1,14 @@
 Build.PL
 Changes
 lib/Perl6/Pod/Lib.pm
+lib/Perl6/Pod/Lib/Image.pm
 lib/Perl6/Pod/Lib/Include.pm
 Makefile.PL
 MANIFEST
 README
 t/01_Blocks.t
 t/data/P_test1.pod
+t/lib/T/Image.pm
 t/lib/T/Include.pm
 t/lib/TBase.pm
 META.yml

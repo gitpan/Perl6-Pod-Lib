@@ -3,13 +3,13 @@ use 5.8.0;
 use ExtUtils::MakeMaker;
 WriteMakefile
 (
-          'NAME' => 'Perl6::Pod::Lib',
-          'VERSION_FROM' => 'lib/Perl6/Pod/Lib.pm',
-          'PREREQ_PM' => {
-                           'Perl6::Pod' => '0.16'
-                         },
-          'INSTALLDIRS' => 'site',
-          'EXE_FILES' => [],
-          'PL_FILES' => {}
-        )
+  'NAME' => 'Perl6::Pod::Lib',
+  'VERSION_FROM' => 'lib/Perl6/Pod/Lib.pm',
+  'PREREQ_PM' => {
+                   'Perl6::Pod' => '0.16'
+                 },
+  'INSTALLDIRS' => 'site',
+  'EXE_FILES' => [],
+  'PL_FILES' => {}
+)
 ;
