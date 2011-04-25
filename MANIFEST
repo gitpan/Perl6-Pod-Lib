@@ -7,7 +7,11 @@ Makefile.PL
 MANIFEST
 README
 t/01_Blocks.t
+t/data/inc_sub_imgage.pod
 t/data/P_test1.pod
+t/data/subdir/imagetest.pod
+t/data/subdir/test.pod
+t/data/unc_sub.pod
 t/lib/T/Image.pm
 t/lib/T/Include.pm
 t/lib/TBase.pm
