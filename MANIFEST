@@ -1,6 +1,7 @@
 Build.PL
 Changes
 lib/Perl6/Pod/Lib.pm
+lib/Perl6/Pod/Lib/FilterExcludePattern.pm
 lib/Perl6/Pod/Lib/Image.pm
 lib/Perl6/Pod/Lib/Include.pm
 Makefile.PL
