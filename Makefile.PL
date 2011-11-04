@@ -6,7 +6,7 @@ WriteMakefile
   'NAME' => 'Perl6::Pod::Lib',
   'VERSION_FROM' => 'lib/Perl6/Pod/Lib.pm',
   'PREREQ_PM' => {
-                   'Perl6::Pod' => '0.28'
+                   'Perl6::Pod' => '0.35'
                  },
   'INSTALLDIRS' => 'site',
   'EXE_FILES' => [],
