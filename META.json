@@ -4,7 +4,7 @@
       "Zahatski Aliaksandr zag@cpan.org"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "Module::Build version 0.4, CPAN::Meta::Converter version 2.120351",
    "license" : [
       "perl_5"
    ],
@@ -16,7 +16,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.38"
+            "Module::Build" : "0.4"
          }
       },
       "runtime" : {
@@ -28,7 +28,7 @@
    "provides" : {
       "Perl6::Pod::Lib" : {
          "file" : "lib/Perl6/Pod/Lib.pm",
-         "version" : "0.10"
+         "version" : "0.11"
       },
       "Perl6::Pod::Lib::Image" : {
          "file" : "lib/Perl6/Pod/Lib/Image.pm",
@@ -51,5 +51,5 @@
          "url" : "git://github.com/zag/p5-Perl6-Pod-Lib.git"
       }
    },
-   "version" : "0.10"
+   "version" : "0.11"
 }
